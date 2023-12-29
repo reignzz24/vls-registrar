@@ -1,0 +1,4 @@
+logbook_id,purpose,account_num,last_name,first_name,middle_name,course,year_section,date_received
+1,1,1234567890,Doe,John,M,Computer Science,1-A,17/02/2023 8:40:52 PM
+2,5,1234567890,Doe,John,M,Computer Science,1-A,18/02/2023 2:41:55 PM
+3,7,1234567890,Doe,John,M,Computer Science,1-A,18/02/2023 2:41:55 PM

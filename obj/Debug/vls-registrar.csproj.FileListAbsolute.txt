@@ -1,0 +1,46 @@
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\vls-registrar.exe.config
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\vls-registrar.exe
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\vls-registrar.pdb
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.csproj.AssemblyReference.cache
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls_registrar.Form1.resources
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls_registrar.Properties.Resources.resources
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.csproj.GenerateResource.cache
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.csproj.CoreCompileInputs.cache
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.exe
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.pdb
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\Guna.UI.dll
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls-registrar.csproj.CopyComplete
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls_registrar.Form2.resources
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls_registrar.Form3.resources
+C:\Users\Jeric\source\repos\vls-registrar\bin\Debug\MySql.Data.dll
+C:\Users\Jeric\source\repos\vls-registrar\obj\Debug\vls_registrar.LoginSuccessFrom.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.csproj.AssemblyReference.cache
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.exe
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.pdb
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\vls-registrar.exe.config
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\vls-registrar.exe
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\vls-registrar.pdb
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.Properties.Resources.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.csproj.GenerateResource.cache
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.csproj.CoreCompileInputs.cache
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls-registrar.csproj.CopyComplete
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.SignUp.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.LogIn.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.Index.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.EditRow.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\EPPlus.dll
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\EPPlus.xml
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.SpreadsheetMaker.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.AdminControl.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.ChangeWizard.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.ClientControl.resources
+C:\Users\Rhey\Desktop\Elective - C#\vls-registrar\obj\Debug\vls_registrar.ConfirmationClient.resources
